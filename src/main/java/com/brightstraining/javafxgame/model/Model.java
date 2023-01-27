@@ -15,6 +15,7 @@ public class Model {
     public static final double COLUMNS = ROWS;
     public static final double SQUSIZE = WIDTH/ROWS;
     private ScoreBoard scoreBoard;
+    //änderung
     private MuteButton mutebutton;
     private final Player player;
         public MuteButton getMutebutton() {return mutebutton;}
